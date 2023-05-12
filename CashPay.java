@@ -1,5 +1,4 @@
 import java.util.*;
-
 /** This class represents a cash payment.
  * @author Aya Mohamed Abdelrahman
  *          Karin Khier Abdallah
