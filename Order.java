@@ -6,6 +6,7 @@
  * @since 8/5/2023
  */
 
+
 public class Order {
     private float orderTotal;
     private String deliveryAddress;
