@@ -1,5 +1,6 @@
 /** This is an abstrat class of payment.
  */
+
 public abstract class Payment {
     private float amount;
 
