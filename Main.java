@@ -1,5 +1,5 @@
 /**
- *  * @author Aya Mohamed Abdelrahman
+ *  * @authors Aya Mohamed Abdelrahman
  *  *          Karin Khier Abdallah
  *  *          Alaa Elbasyonee Abdelaal
  * @version 1.0
